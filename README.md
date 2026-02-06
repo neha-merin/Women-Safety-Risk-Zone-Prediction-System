@@ -4,6 +4,8 @@ This repository contains a demo prototype of the Women Safety Risk Zone Predicti
 
 It demonstrates how crime-related location data can be visualized using heatmaps to identify high-risk areas for women’s safety. This version represents a simplified working model of the full-scale system.
 
+<img width="945" height="453" alt="ff" src="https://github.com/user-attachments/assets/22192ce3-0409-4e9e-b428-2375d7332bc8" />
+
 ---
 
 ## 🎯 Purpose of This Demo
